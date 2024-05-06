@@ -1,5 +1,7 @@
 
 **"Tim Hortons Job Listing Scraper: Extracting Opportunities with Python"**
+![image](https://github.com/DG0110/Tim-Hortons-Job-Listings-Web-Scraping-/assets/112652526/f9d3827c-9452-493a-a0e5-e8e9b04a53e8)
+
 
 This is a Web Scrapping Project. It scrapes the job listings from Tim Hortons, a famous coffee chain. The data is stored in an excel file. This python script utilizes the requests library to make a GET request to the Tim Hortons job listings API. It then processes the JSON response and extracts relevant information, storing it in a Pandas DataFrame. Finally, the script exports the DataFrame to an Excel file named 'Tim_Hortons_Job.xlsx'.
 
